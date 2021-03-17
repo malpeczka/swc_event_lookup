@@ -2,7 +2,7 @@
 
 """
 
-Querying SWC API - 2021, Nien Huei Chang
+SWC Event Lookup - 2021, Nien Huei Chang
 
 swc_event_lookup.py - main program
 
